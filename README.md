@@ -4,11 +4,11 @@ In the last week of the module, there is an assignment about "How pagerank algor
 
 # The Pagerank algorithm..<br>
 invented by the founder of **Google**, Larry Page and Sergey Brin. As the name suggested, this algorithm ranks what you are searching and return it to you in order from most important
-web to the least important. And surprisingly :open_mouth: the way this algorithm work relies on a lot of math topic such as Markov Chain, Linear Algebra, Graph thory etc.
+web to the least important. And surprisingly :open_mouth: the way this algorithm work relies on a lot of math topic such as Markov Chain, Linear Algebra, Graph theory etc.
 
 # :sparkles: Because of the recursive nature of this algorithm...
 I thought to myself that this would be a good time for me to practice coding dynamic programming (and a little bit of recursive function).
-SO, in this notebook, I will re-write the Pagerank algorithm in my last assignment in dynamic proramming style both bottom-up and top-down approach.
+SO, in this notebook, I will re-write the Pagerank algorithm in my last assignment in dynamic programming style both bottom-up and top-down approach.
 
 ## Packages :package:
 The code is entirely written in Python 3.8.8 and the main packages I utilized are:
